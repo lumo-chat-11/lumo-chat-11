@@ -1,4 +1,6 @@
 <!-- 헤더 배너/한 줄 소개 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Lumo%20-%20Light%20your%20%conversation)
+
 <h1 align="center">✨ Lumo — light your conversation</h1>
 <p align="center">
   <b>E2EE-first messenger</b> · Flutter · Go · NATS · Terraform on AWS
